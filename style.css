@@ -1,0 +1,48 @@
+.welcome .start-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.welcome .start-btn:hover {
+    background-color: darkblue;
+}
+.Q1 .option-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.Q2 .option-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.Q3 .option-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color:blue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.Q1 .option:hover { 
+    background-color: darkblue;
+}
+.Q2 .option:hover {
+    background-color: darkblue;
+}
+.Q3 .option:hover {
+    background-color: darkblue;
+}
